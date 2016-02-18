@@ -1,0 +1,19 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[Danish]{babel}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{listings}
+\lstset{language=[Sharp]C}
+\usepackage[top=1.5cm,bottom=1.5cm,right=2cm,left=2.5cm]{geometry}
+\usepackage[backend=bibtex]{biblatex}
+%\addbibresource{Skriv stien her} Bruges til at finde dokumentet med kilder
+
+\newcommand{\pic}[4]
+{
+\begin{figure} [#1]
+\includegraphics[width=\linewidth]{#2}
+\caption{#3}
+\label{#4}
+\end{figure}
+}
