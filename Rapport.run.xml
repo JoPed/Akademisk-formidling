@@ -81,6 +81,7 @@
       <file>Rapport-blx.bib</file>
     </requires>
     <requires type="editable">
+      <file>Files/Kilder.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>

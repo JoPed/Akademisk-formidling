@@ -16,6 +16,42 @@
   {}
 \endgroup
 
+\entry{Kinkley2016}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kinkley}{K.}%
+     {Jonathan}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KJ1}
+  \strng{fullhash}{KJ1}
+  \field{sortinit}{K}
+  \field{title}{The 'flat' 3-D look: A breif history of cel shading in video
+  games}
+  \verb{url}
+  \verb http://www.avclub.com/article/flat-3-d-look-brief-history-cel-shading-v
+  \verb ideo-game-212807
+  \endverb
+\endentry
+
+\entry{tvtropes2016}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {tv|troops}{t.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{t1}
+  \strng{fullhash}{t1}
+  \field{sortinit}{T}
+  \field{title}{Cel shading}
+  \verb{url}
+  \verb http://tvtropes.org/pmwiki/pmwiki.php/Main/CelShading
+  \endverb
+\endentry
+
 \lossort
 \endlossort
 
