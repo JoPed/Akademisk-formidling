@@ -1,15 +1,16 @@
 
 % command til at lave et billede
-% #1: 
-% #2: stig til billede
-% #3: billede text
-% #4: label
-\newcommand{\pic}[4]
+% #1: placering af billede
+% #2: width/scale
+% #3: sti til billede
+% #4: billede text
+% #5: label
+\newcommand{\pic}[5]
 {
 \begin{figure} [#1]
-\includegraphics[width=\linewidth]{#2}
-\caption{#3}
-\label{#4}
+\includegraphics[width=#2]{#3}
+\caption{#4}
+\label{#5}
 \end{figure}
 }
 
