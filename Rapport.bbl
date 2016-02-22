@@ -16,7 +16,7 @@
   {}
 \endgroup
 
-\entry{Kinkley2016}{online}{}
+\entry{kinkley}{online}{}
   \name{author}{1}{}{%
     {{}%
      {Kinkley}{K.}%
@@ -33,12 +33,31 @@
   \verb http://www.avclub.com/article/flat-3-d-look-brief-history-cel-shading-v
   \verb ideo-game-212807
   \endverb
+  \field{year}{2016}
 \endentry
 
-\entry{tvtropes2016}{online}{}
+\entry{sunandblackcat2016}{online}{}
   \name{author}{1}{}{%
     {{}%
-     {tv|troops}{t.}%
+     {SunandBlackCat}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{S1}
+  \strng{fullhash}{S1}
+  \field{sortinit}{S}
+  \field{title}{Non-photorealistic Rendering - Cel shading}
+  \verb{url}
+  \verb http://sunandblackcat.com/tipFullView.php?l=eng&topicid=15
+  \endverb
+  \field{year}{2016}
+\endentry
+
+\entry{tvtropes}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {tvtropes}{t.}%
      {}{}%
      {}{}%
      {}{}}%
@@ -46,10 +65,11 @@
   \strng{namehash}{t1}
   \strng{fullhash}{t1}
   \field{sortinit}{T}
-  \field{title}{Cel shading}
+  \field{title}{Cel Shading}
   \verb{url}
   \verb http://tvtropes.org/pmwiki/pmwiki.php/Main/CelShading
   \endverb
+  \field{year}{2016}
 \endentry
 
 \lossort
