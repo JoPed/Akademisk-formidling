@@ -33,40 +33,38 @@ OPTpubstate = {•},
 OPTurldate = {•},
 }
 
-@online{sunandblackcat2016,
-author = {SunandBlackCat},
-title = {Non-photorealistic Rendering - Cel shading},
-year = {2016},
-url = {http://sunandblackcat.com/tipFullView.php?l=eng&topicid=15},
-OPTsubtitle = {•},
-OPTtitleaddon = {•},
-OPTlanguage = {•},
-OPTversion = {•},
-OPTnote = {•},
-OPTorganization = {•},
-OPTdate = {22},
-OPTmonth = {2},
-OPTaddendum = {•},
-OPTpubstate = {•},
-OPTurldate = {•},
-}
-
-
+<<<<<<< HEAD
 @online{clone-push,
 author = {},
 title = {Method to get a black outline},
 year_visited = {18/2 2016},
 url = {https://www.youtube.com/watch?v=971QTj_aDac},
+=======
+@online{sunandblackcat2016,
+author = {SunandBlackCat},
+title = {Non-photorealistic Rendering - Cel shading},
+year = {2016},
+url = {http://sunandblackcat.com/tipFullView.php?l=eng&topicid=15},
+>>>>>>> 812e9167e14166103decf6be4f4fda9f12c4c246
 OPTsubtitle = {•},
 OPTtitleaddon = {•},
 OPTlanguage = {•},
 OPTversion = {•},
 OPTnote = {•},
 OPTorganization = {•},
+<<<<<<< HEAD
 OPTdate = {•},
 OPTmonth = {•},
+=======
+OPTdate = {22},
+OPTmonth = {2},
+>>>>>>> 812e9167e14166103decf6be4f4fda9f12c4c246
 OPTaddendum = {•},
 OPTpubstate = {•},
 OPTurldate = {•},
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 812e9167e14166103decf6be4f4fda9f12c4c246
