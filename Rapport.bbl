@@ -90,6 +90,25 @@
   \field{year}{2016}
 \endentry
 
+\entry{npr}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Winklhofer}{W.}%
+     {Simon M. Danner \& Christoph~J.}{S.~M. D. . C.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WSMDCJ1}
+  \strng{fullhash}{WSMDCJ1}
+  \field{sortinit}{W}
+  \field{title}{Catoon Rendering Style}
+  \verb{url}
+  \verb https://www.researchgate.net/publication/228477901_Cartoon_Style_Render
+  \verb ing
+  \endverb
+  \field{year}{2016}
+\endentry
+
 \lossort
 \endlossort
 
