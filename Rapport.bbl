@@ -16,7 +16,7 @@
   {}
 \endgroup
 
-\entry{kinkley}{online}{}
+\entry{kinkley2016}{online}{}
   \name{author}{1}{}{%
     {{}%
      {Kinkley}{K.}%
@@ -36,12 +36,22 @@
   \field{year}{2016}
 \endentry
 
-\entry{clone-push}{online}{}
-  \field{sortinit}{M}
-  \field{title}{Method to get a black outline}
+\entry{ZeldaOnGameCube}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Staff}{S.}%
+     {IGN}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SI1}
+  \strng{fullhash}{SI1}
+  \field{sortinit}{S}
+  \field{title}{Zelda on Gamecube}
   \verb{url}
-  \verb https://www.youtube.com/watch?v=971QTj_aDac
+  \verb http://www.ign.com/articles/2000/08/24/zelda-on-gamecube
   \endverb
+  \field{year}{2000}
 \endentry
 
 \entry{sunandblackcat2016}{online}{}
@@ -60,24 +70,67 @@
   \verb http://sunandblackcat.com/tipFullView.php?l=eng&topicid=15
   \endverb
   \field{year}{2016}
+<<<<<<< HEAD
+=======
+\endentry
+
+\entry{clone-push}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tutor}{T.}%
+     {The~3D}{T.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TTD1}
+  \strng{fullhash}{TTD1}
+  \field{sortinit}{T}
+  \field{title}{3ds Max Tutorial - EASY Cell Shaded Black Outline Effect}
+  \verb{url}
+  \verb https://www.youtube.com/watch?v=971QTj_aDac
+  \endverb
+  \field{year}{2016}
+>>>>>>> a48afc2f0d7b2d9471018957f77e5aa48b345771
 \endentry
 
 \entry{tvtropes}{online}{}
   \name{author}{1}{}{%
     {{}%
-     {tvtropes}{t.}%
+     {Tvtropes}{T.}%
      {}{}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{t1}
-  \strng{fullhash}{t1}
+  \strng{namehash}{T1}
+  \strng{fullhash}{T1}
   \field{sortinit}{T}
   \field{title}{Cel Shading}
   \verb{url}
   \verb http://tvtropes.org/pmwiki/pmwiki.php/Main/CelShading
   \endverb
   \field{year}{2016}
+<<<<<<< HEAD
+=======
+\endentry
+
+\entry{npr}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Winklhofer}{W.}%
+     {Simon M. Danner \& Christoph~J.}{S.~M. D. . C.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WSMDCJ1}
+  \strng{fullhash}{WSMDCJ1}
+  \field{sortinit}{W}
+  \field{title}{Catoon Rendering Style}
+  \verb{url}
+  \verb https://www.researchgate.net/publication/228477901_Cartoon_Style_Render
+  \verb ing
+  \endverb
+  \field{year}{2016}
+>>>>>>> a48afc2f0d7b2d9471018957f77e5aa48b345771
 \endentry
 
 \lossort
