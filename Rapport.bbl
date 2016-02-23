@@ -70,8 +70,6 @@
   \verb http://sunandblackcat.com/tipFullView.php?l=eng&topicid=15
   \endverb
   \field{year}{2016}
-<<<<<<< HEAD
-=======
 \endentry
 
 \entry{clone-push}{online}{}
@@ -90,7 +88,6 @@
   \verb https://www.youtube.com/watch?v=971QTj_aDac
   \endverb
   \field{year}{2016}
->>>>>>> a48afc2f0d7b2d9471018957f77e5aa48b345771
 \endentry
 
 \entry{tvtropes}{online}{}
@@ -109,8 +106,6 @@
   \verb http://tvtropes.org/pmwiki/pmwiki.php/Main/CelShading
   \endverb
   \field{year}{2016}
-<<<<<<< HEAD
-=======
 \endentry
 
 \entry{npr}{online}{}
@@ -130,7 +125,6 @@
   \verb ing
   \endverb
   \field{year}{2016}
->>>>>>> a48afc2f0d7b2d9471018957f77e5aa48b345771
 \endentry
 
 \lossort
