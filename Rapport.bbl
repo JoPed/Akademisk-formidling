@@ -36,6 +36,24 @@
   \field{year}{2016}
 \endentry
 
+\entry{ZeldaOnGameCube}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Staff}{S.}%
+     {IGN}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SI1}
+  \strng{fullhash}{SI1}
+  \field{sortinit}{S}
+  \field{title}{Zelda on Gamecube}
+  \verb{url}
+  \verb http://www.ign.com/articles/2000/08/24/zelda-on-gamecube
+  \endverb
+  \field{year}{2000}
+\endentry
+
 \entry{sunandblackcat2016}{online}{}
   \name{author}{1}{}{%
     {{}%
