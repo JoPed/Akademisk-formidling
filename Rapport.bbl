@@ -16,6 +16,23 @@
   {}
 \endgroup
 
+\entry{tvtropes}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tvtropes}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T1}
+  \strng{fullhash}{T1}
+  \field{title}{Cel Shading}
+  \verb{url}
+  \verb http://tvtropes.org/pmwiki/pmwiki.php/Main/CelShading
+  \endverb
+  \field{year}{2016}
+\endentry
+
 \entry{kinkley2016}{online}{}
   \name{author}{1}{}{%
     {{}%
@@ -26,7 +43,6 @@
   }
   \strng{namehash}{KJ1}
   \strng{fullhash}{KJ1}
-  \field{sortinit}{K}
   \field{title}{The 'flat' 3-D look: A breif history of cel shading in video
   games}
   \verb{url}
@@ -34,24 +50,6 @@
   \verb ideo-game-212807
   \endverb
   \field{year}{2016}
-\endentry
-
-\entry{ZeldaOnGameCube}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Staff}{S.}%
-     {IGN}{I.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{SI1}
-  \strng{fullhash}{SI1}
-  \field{sortinit}{S}
-  \field{title}{Zelda on Gamecube}
-  \verb{url}
-  \verb http://www.ign.com/articles/2000/08/24/zelda-on-gamecube
-  \endverb
-  \field{year}{2000}
 \endentry
 
 \entry{sunandblackcat2016}{online}{}
@@ -64,7 +62,6 @@
   }
   \strng{namehash}{S1}
   \strng{fullhash}{S1}
-  \field{sortinit}{S}
   \field{title}{Non-photorealistic Rendering - Cel shading}
   \verb{url}
   \verb http://sunandblackcat.com/tipFullView.php?l=eng&topicid=15
@@ -82,28 +79,9 @@
   }
   \strng{namehash}{TTD1}
   \strng{fullhash}{TTD1}
-  \field{sortinit}{T}
   \field{title}{3ds Max Tutorial - EASY Cell Shaded Black Outline Effect}
   \verb{url}
   \verb https://www.youtube.com/watch?v=971QTj_aDac
-  \endverb
-  \field{year}{2016}
-\endentry
-
-\entry{tvtropes}{online}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Tvtropes}{T.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{T1}
-  \strng{fullhash}{T1}
-  \field{sortinit}{T}
-  \field{title}{Cel Shading}
-  \verb{url}
-  \verb http://tvtropes.org/pmwiki/pmwiki.php/Main/CelShading
   \endverb
   \field{year}{2016}
 \endentry
@@ -118,13 +96,29 @@
   }
   \strng{namehash}{WSMDCJ1}
   \strng{fullhash}{WSMDCJ1}
-  \field{sortinit}{W}
   \field{title}{Catoon Rendering Style}
   \verb{url}
   \verb https://www.researchgate.net/publication/228477901_Cartoon_Style_Render
   \verb ing
   \endverb
   \field{year}{2016}
+\endentry
+
+\entry{ZeldaOnGameCube}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Staff}{S.}%
+     {IGN}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SI1}
+  \strng{fullhash}{SI1}
+  \field{title}{Zelda on Gamecube}
+  \verb{url}
+  \verb http://www.ign.com/articles/2000/08/24/zelda-on-gamecube
+  \endverb
+  \field{year}{2000}
 \endentry
 
 \lossort
