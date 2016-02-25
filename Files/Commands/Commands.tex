@@ -14,6 +14,22 @@
 \end{figure}
 }
 
+%Ny command til figurer, hvor man kan wrap tekst omkring billede. 
+%#1: angivelse af hvilken side billedet står i. 
+% #2: width/scale
+% #3: sti til billede
+% #4: billede tekst
+% #5: label for reference til billede.
+\newcommand{\wrapfig}[5]
+{
+\begin{wrapfigure}{#1}{0.3\textwidth}
+\centering
+\includegraphics[width=#2]{#3}
+\caption{\textit{#4}}
+\label{#5}
+\end{wrapfigure}
+}
+
 
 \newcommand{\matharray}[2]
 {
