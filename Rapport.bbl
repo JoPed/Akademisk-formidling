@@ -104,16 +104,16 @@
   \field{year}{2016}
 \endentry
 
-\entry{ZeldaOnGameCube}{online}{}
+\entry{Zelda}{online}{}
   \name{author}{1}{}{%
     {{}%
-     {Staff}{S.}%
      {IGN}{I.}%
+     {}{}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{SI1}
-  \strng{fullhash}{SI1}
+  \strng{namehash}{I1}
+  \strng{fullhash}{I1}
   \field{title}{Zelda on Gamecube}
   \verb{url}
   \verb http://www.ign.com/articles/2000/08/24/zelda-on-gamecube
@@ -124,13 +124,13 @@
 \entry{ToonLinkIsBorn}{online}{}
   \name{author}{1}{}{%
     {{}%
-     {staff}{s.}%
-     {Nintendo}{N.}%
-     {community}{c.}%
+     {2}{.}%
+     {Nintendo Community~Staff}{N.~C.~S.}%
+     {}{}%
      {}{}}%
   }
-  \strng{namehash}{sNc1}
-  \strng{fullhash}{sNc1}
+  \strng{namehash}{NCS1}
+  \strng{fullhash}{NCS1}
   \field{title}{Iwata Asks: The Legend of Zelda: The Wind Waker HD}
   \verb{url}
   \verb http://iwataasks.nintendo.com/interviews/#/wiiu/wind-waker/0/0
@@ -138,16 +138,16 @@
   \field{year}{2012}
 \endentry
 
-\entry{ensArted}{online}{}
+\entry{nintendo}{online}{}
   \name{author}{1}{}{%
     {{}%
-     {Japan}{J.}%
-     {Nintendo Co.~Ltd.}{N.~C.~L.}%
-     {of}{o.}%
+     {Nintendo}{N.}%
+     {}{}%
+     {}{}%
      {}{}}%
   }
-  \strng{namehash}{JNCLo1}
-  \strng{fullhash}{JNCLo1}
+  \strng{namehash}{N1}
+  \strng{fullhash}{N1}
   \field{title}{Wind Waker interview}
   \verb{url}
   \verb http://www.gamecubicle.com/interview-legend_of_zelda_wind_waker_miyamot
@@ -159,13 +159,13 @@
 \entry{BigScore}{online}{}
   \name{author}{1}{}{%
     {{}%
-     {Staff}{S.}%
-     {IGN}{I.}%
+     {2}{.}%
+     {IGN~Staff}{I.~S.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{SI1}
-  \strng{fullhash}{SI1}
+  \strng{namehash}{IS1}
+  \strng{fullhash}{IS1}
   \field{title}{Zelda Scores Big}
   \verb{url}
   \verb http://www.ign.com/articles/2002/12/11/zelda-scores-big
