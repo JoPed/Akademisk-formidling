@@ -8,4 +8,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Alternativ toon shading}{4}
 \defcounter {refsection}{0}\relax 
+<<<<<<< HEAD
 \contentsline {section}{\numberline {4}Hvor n\IeC {\r a}r kunne man \IeC {\o }nske at bruge cel shading/cartoon shading}{5}
+=======
+\contentsline {section}{\numberline {4}Hvor n\IeC {\r a}r kunne man \IeC {\o }nske at bruge cel shading/cartoon shading}{4}
+>>>>>>> 49398dca9fb8d3401923b2bd8ac9cd57ae87da6c
