@@ -1,5 +1,10 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Rapport.aux
 The style file: biblatex.bst
+White space in argument---line 33 of file Rapport.aux
+ : \citation{EtSpilForB\IeC
+ :                          {\o }rn}
+I'm skipping whatever remains of this command
 Database file #1: Rapport-blx.bib
 Database file #2: Files/Kilder.bib
 Biblatex version: 3.0
+(There was 1 error message)

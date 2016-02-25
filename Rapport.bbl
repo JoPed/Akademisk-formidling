@@ -121,6 +121,58 @@
   \field{year}{2000}
 \endentry
 
+\entry{ToonLinkIsBorn}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {staff}{s.}%
+     {Nintendo}{N.}%
+     {community}{c.}%
+     {}{}}%
+  }
+  \strng{namehash}{sNc1}
+  \strng{fullhash}{sNc1}
+  \field{title}{Iwata Asks: The Legend of Zelda: The Wind Waker HD}
+  \verb{url}
+  \verb http://iwataasks.nintendo.com/interviews/#/wiiu/wind-waker/0/0
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{ensArted}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Japan}{J.}%
+     {Nintendo Co.~Ltd.}{N.~C.~L.}%
+     {of}{o.}%
+     {}{}}%
+  }
+  \strng{namehash}{JNCLo1}
+  \strng{fullhash}{JNCLo1}
+  \field{title}{Wind Waker interview}
+  \verb{url}
+  \verb http://www.gamecubicle.com/interview-legend_of_zelda_wind_waker_miyamot
+  \verb o.htm
+  \endverb
+  \field{year}{Unknowen}
+\endentry
+
+\entry{BigScore}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Staff}{S.}%
+     {IGN}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SI1}
+  \strng{fullhash}{SI1}
+  \field{title}{Zelda Scores Big}
+  \verb{url}
+  \verb http://www.ign.com/articles/2002/12/11/zelda-scores-big
+  \endverb
+  \field{year}{202}
+\endentry
+
 \lossort
 \endlossort
 
