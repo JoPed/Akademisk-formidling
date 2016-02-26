@@ -14,29 +14,40 @@
 }
 
 %Ny command til figurer, hvor man kan wrap tekst omkring billede. 
-%#1: angivelse af hvilken side billedet står i. 
-% #2: width/scale
-% #3: sti til billede
-% #4: billede tekst
-% #5: label for reference til billede.
-\newcommand{\wrapfig}[5]
+% #1: angivelse af hvilken side billedet står i.
+% #2: Hvor tæt teksten "må" komme på billedet.  
+% #3: width/scale
+% #4: sti til billede
+% #5: billede tekst
+% #6: label for reference til billede.
+\newcommand{\wrapfig}[6]
 {
-\begin{wrapfigure}{#1}{0.37\textwidth}
+\begin{wrapfigure}{#1}{#2\textwidth}
 \centering
-\includegraphics[width=#2]{#3}
-\caption{\textit{#4}}
-\label{#5}
+\includegraphics[width=#3]{#4}
+\caption{\textit{#5}}
+\label{#6}
 \end{wrapfigure}
 }
 
-
-\newcommand{\matharray}[2]
+\newcommand{\eq}[6]
 {
-\begin{eqnarray}
-{#1}
-\label{#2}
-\end{eqnarray}
+\begin{equation}
+\abovedisplayskip=#1
+\belowdisplayskip=#2
+\abovedisplayshortskip=#3
+\belowdisplayshortskip=#4
+{#5}
+\label{#6}
+\end{equation}
 }
+%\newcommand{\matharray}[2]
+%{
+%\begin{eqnarray}
+%{#1}
+%\label{#2}
+%\end{eqnarray}
+%}
 
 %Kommand til nummering af sectioner, så der ikke medtages kapitel nummer, hvis der ikke er et kapitel. 
 \renewcommand{\thesection}{\arabic{section}}
