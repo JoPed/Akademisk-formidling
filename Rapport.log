@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.15)  26 FEB 2016 12:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.26)  28 FEB 2016 23:08
 entering extended mode
 **./Rapport.tex
 (Rapport.tex
 LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 (Files/Preamble/Preamble.tex
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -22,22 +22,23 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\showkeys.s
-ty"
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\showkeys.sty"
 Package: showkeys 2014/10/28 v3.17 Show cite and label keys (DPC, MH)
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2015/09/07 v1.1p UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -197,7 +198,7 @@ File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -238,7 +239,7 @@ File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -261,61 +262,51 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.s
-ty"
+))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2016/01/08 3.9n The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\bblopts.c
-fg"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danish\Danis
-h.ldf"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-danish\Danish.ldf"
 Language: danish 2009/09/19 v1.3r Danish support from the babel system
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2016/01/08 3.9n Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
 Package babel Info: Making " an active character on input line 82.
 ))
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.
-cfg"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 94.
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.
-def"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count89
@@ -323,39 +314,31 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\placeins\placeins.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
 Package: placeins 2005/04/18  v 2.2
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sectsty\sectsty.st
-y"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\sectsty\sectsty.sty"
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
-y"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
-y"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen106
 ))
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen107
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count90
@@ -396,10 +379,10 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty
-"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
 Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
- ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen115
 \extrarowheight=\dimen116
@@ -414,9 +397,11 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \TX@delta=\dimen121
 \TX@cols=\count102
 \TX@ftn=\toks23
-) ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
- ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip48
@@ -434,8 +419,7 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip60
 \JustifyingParindent=\skip61
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
 \lst@mode=\count103
 \lst@gtempboxa=\box28
 \lst@token=\toks24
@@ -449,21 +433,18 @@ sty"
 \lst@lineno=\count108
 \lst@maxwidth=\dimen125
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
-ty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count109
 \lst@skipnumbers=\count110
 \lst@framebox=\box29
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-cfg"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.st
-y"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
 \wrapoverhang=\dimen126
 \WF@size=\dimen127
 \c@WF@wrappedlines=\count111
@@ -471,26 +452,21 @@ y"
 \WF@everypar=\toks25
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
-ty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count112
@@ -506,31 +482,29 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen135
 \Gm@dimlist=\toks26
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
-cfg"))
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
 Package: biblatex 2015/12/22 v3.2 programmable bibliographies (PK/JW/AB)
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex1
-.sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex1.sty"
 Package: biblatex1 2015/12/22 v3.2 programmable bibliographies (bibtex) (PK/JW/
 AB)
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count115
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count116
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.def"
+
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
-"
+))
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+)
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -652,15 +626,13 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-compa
-t.def"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
 File: blx-compat.def 2015/12/22 v3.2 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
-def"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
 File: biblatex.def 
 \c@textcitecount=\count287
 \c@textcitetotal=\count288
@@ -673,14 +645,12 @@ File: biblatex.def
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\numer
-ic.bbx"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
 File: numeric.bbx 2015/12/22 v3.2 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\stand
-ard.bbx"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
 File: standard.bbx 2015/12/22 v3.2 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count294
 \c@bbx:relatedtotal=\count295
@@ -688,8 +658,7 @@ File: standard.bbx 2015/12/22 v3.2 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx\numer
-ic.cbx"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx"
 File: numeric.cbx 2015/12/22 v3.2 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -706,16 +675,13 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
-cfg"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
 File: biblatex.cfg 
 )))
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
-y"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
-ty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen136
@@ -730,15 +696,14 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.
-sty"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (Files/Commands/Commands.tex))
+)
+(Files/Commands/Commands.tex))
 Package biblatex Info: Trying to load language 'danish'...
 Package biblatex Info: ... file 'danish.lbx' found.
 
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\danis
-h.lbx"
+("D:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\lbx\danish.lbx"
 File: danish.lbx 2015/12/22 v3.2 biblatex localization (PK/JW/AB)
 )
 
@@ -766,9 +731,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
-
-("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
+ ("D:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count299
 \scratchdimen=\dimen143
@@ -863,67 +826,48 @@ File: Files/Celshading/jetsetradio.pdf Graphic file (type pdf)
 <use Files/Celshading/jetsetradio.pdf>
 Package pdftex.def Info: Files/Celshading/jetsetradio.pdf used on input line 2.
 
-(pdftex.def)             Requested size: 140.99854pt x 120.9065pt.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 2.
-
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 4.
-
-
-[1]
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 10
-.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 18
-.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 26
-.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 31
-.
-
+(pdftex.def)             Requested size: 117.49878pt x 100.75453pt.
+ [1]
 
 LaTeX Warning: Reference `fig:modulationbasecolor' on page 2 undefined on input
- line 32.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 37
-.
+ line 35.
 
 
 LaTeX Warning: Reference `fig:modulationofcolorfromteksture' on page 2 undefine
-d on input line 38.
+d on input line 40.
 
 
 LaTeX Warning: Reference `fig:mixedmodulation' on page 2 undefined on input lin
-e 41.
+e 43.
 
-) (Files/Alternativ_toon_shading/Alternativ_toon_shading.tex [2]
+<Files/CelShading/silhouette4.pdf, id=26, 116.435pt x 116.435pt>
+File: Files/CelShading/silhouette4.pdf Graphic file (type pdf)
 
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 2.
+<use Files/CelShading/silhouette4.pdf>
+Package pdftex.def Info: Files/CelShading/silhouette4.pdf used on input line 49
+.
+(pdftex.def)             Requested size: 145.89337pt x 128.05046pt.
 
+<Files/CelShading/silhouette5.pdf, id=27, 116.435pt x 116.435pt>
+File: Files/CelShading/silhouette5.pdf Graphic file (type pdf)
 
+<use Files/CelShading/silhouette5.pdf>
+Package pdftex.def Info: Files/CelShading/silhouette5.pdf used on input line 52
+.
+(pdftex.def)             Requested size: 145.89337pt x 128.05046pt.
 
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 3.
+<Files/CelShading/silhouette6.jpg, id=28, 88.24547pt x 88.24547pt>
+File: Files/CelShading/silhouette6.jpg Graphic file (type jpg)
 
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 4.
-
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 6.
-
-
-<Files/Alternativ_toon_shading/okami.png, id=32, 331.83975pt x 264.38776pt>
+<use Files/CelShading/silhouette6.jpg>
+Package pdftex.def Info: Files/CelShading/silhouette6.jpg used on input line 55
+.
+(pdftex.def)             Requested size: 145.89629pt x 128.05228pt.
+)
+(Files/Alternativ_toon_shading/Alternativ_toon_shading.tex [2 <./Files/CelShadi
+ng/silhouette4.pdf> <./Files/CelShading/silhouette5.pdf> <./Files/CelShading/si
+lhouette6.jpg>]
+<Files/Alternativ_toon_shading/okami.png, id=39, 331.83975pt x 264.38776pt>
 File: Files/Alternativ_toon_shading/okami.png Graphic file (type png)
 
 <use Files/Alternativ_toon_shading/okami.png>
@@ -934,14 +878,6 @@ line 7.
 (Files/HvornaarBrugesDet/Hvornaar.tex [3 <./Files/Alternativ_toon_shading/okami
 .png>]
 
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 2.
-
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 4.
-
-
-
 Package wrapfig Warning: Collision between wrapping environments on input line 
 4.
 
@@ -949,7 +885,7 @@ Package wrapfig Warning: Collision between wrapping environments on input line
 Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
 put line 4.
 
-<Files/HvornaarBrugesDet/new-link.png, id=39, 465.74pt x 381.425pt>
+<Files/HvornaarBrugesDet/new-link.png, id=46, 465.74pt x 381.425pt>
 File: Files/HvornaarBrugesDet/new-link.png Graphic file (type png)
 
 <use Files/HvornaarBrugesDet/new-link.png>
@@ -983,29 +919,27 @@ Package logreq Info: Writing requests to 'Rapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10678 strings out of 493634
- 169619 string characters out of 3135239
+ 10695 strings out of 493634
+ 168011 string characters out of 3141314
  347635 words of memory out of 3000000
- 13891 multiletter control sequences out of 15000+200000
+ 13903 multiletter control sequences out of 15000+200000
  11053 words of font info for 40 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 38i,8n,45p,1972b,1519s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Jonas/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Jonas/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Jo
-nas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr7.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr8.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Jonas/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Rapport.pdf (10 pages, 799786 bytes).
+ 38i,12n,45p,1972b,1519s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<D:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><D:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Rapport.pdf (10 pages, 857588 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 96 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
