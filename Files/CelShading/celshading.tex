@@ -1,8 +1,7 @@
 \section{Cel shading}
-Som beskrevet i afsnit 1 'Introduktion' opnås Cel shading ved f.eks. at optegne karaktere med sorte streger, et eksempel kan ses på figur \ref{fig:jetsetradio2000}, hvor den samme karakter er repræsentateret to gange. Henholdsvis med og uden brug af cel shading. Selv om karakterne er fra samme spil og derfor er lige gamle, virker karakteren til højre væsentlige nyere og meget pænere end karakteren til venstre.$\wrapfig{l}{0.30}{10em}{Files/Celshading/jetsetradio.pdf}{} {fig:jetsetradio2000}$
-%\wrapfig{l}{0.35}{10em}{Files/Celshading/jetsetradio.pdf}{} {fig:jetsetradio2000}
-%\pic{!h}{10em}{Files/CelShading/jetsetradio.pdf} {} {fig:jetsetradio2000}
-Cel shading kan ikke kun opnås ved, at tegne på computeren. Man kan nemlig gøre det gennem programmering, i f.eks. OpenGL. 
+Som beskrevet i afsnit 1 'Introduktion' opnås Cel shading ved f.eks. at optegne karaktere med sorte streger, et eksempel kan ses på figur \ref{fig:jetsetradio2000}, hvor den samme karakter er repræsentateret to gange. Henholdsvis med og uden brug af cel shading. Selv om karakterne er fra samme spil og derfor er lige gamle, virker karakteren til højre væsentlige nyere og meget pænere end karakteren til venstre. 
+\pic{!h}{10em}{Files/CelShading/jetsetradio.pdf} {} {fig:jetsetradio2000}
+Cel shading kan ikke kun opnås ved, at tegne på computeren.\\ Man kan nemlig gøre det gennem programmering, i f.eks. OpenGL. 
 Koden vil ikke blive vist og vil ikke blive forklaret, men den bagved liggende proces vil. Hjemmesiden Sunandblackcat \cite{sunandblackcat2016} har en beskrivelse af cel shading, samt en gennemgang af kode, som kan bruges til shading, beskivelse af processen laves med udgangspunkt af denne gennemgang. Før der kan laves en silouet skal man rendere en mesh. \\
 Det gør man ved, at bruge en shader som tilføjer en konstant farve for
 hver renderet fragment og skifter hver spids af mesh’en langs normalen, med en konstant værdi
@@ -13,7 +12,7 @@ skiftes til hvid.
 Dernæst skal man deaktivere skrivning til dybde buffer og aktivere
 visualisering af ’Front-Faces’. Dernæst kan man gå videre til farve reduktion. Det er værd at
 bemærke at det andet ’Draw call’ ikke er nødvendigt, hvis man også benytter sig at farve
-reduktion. \newpage 
+reduktion. 
 Man kan beregne hver komponent af lyse (ambient, diffuse and specular) and tilføje dem sammen.
 Dernæst kan man finde total værdien af clamp.\footnote[2]{Engelsk begreb for en matematisk
 operation}
