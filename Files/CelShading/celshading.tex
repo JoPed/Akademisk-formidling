@@ -38,20 +38,29 @@ intensiteten.\eq{12pt}{12pt}{7pt}{7pt}{\kern -9cm  finalcolor = modelTexture * s
 Formel og resultat kan ses ved henholdsvis
 (\ref{modulationofcolorfromteksture})og figur \ref{fig:modulationofcolorfromteksture}. Sidst,
 men ikke mindst kan man bruge en blanding fra de to forrige eksempler, hvor man både bruge base
-farve, teksture og intensitet. Formelen ses i \ref{mixedmodulation} og resultatet ses i figur
-\ref{fig:mixedmodulation}. \eq{12pt}{12pt}{0pt}{7pt}{\kern -6.5cm finalcolor = baseColor * modelTexture * shadeIntensity} {mixedmodulation}
+farve, teksture og intensitet. Formelen ses i (\ref{mixedmodulation}) og resultatet ses i tabel:kolonne \ref{row1}.
+%\ref{fig:mixedmodulation}. 
+\eq{12pt}{12pt}{0pt}{7pt}{\kern -6.5cm finalcolor = baseColor * modelTexture * shadeIntensity} {mixedmodulation}
+
+\newcounter{rownumber}[figure]
+\renewcommand{\therownumber}{\arabic{rownumber}} %Printer counteren [rownumber] som numering. 
+\setcounter{rownumber}{0} % Nul indeksere nummering, så første tal er 1. 
 \begin{table}[h!]
      \begin{center}
      \begin{tabular}{ | l | l | l | }
      \hline
       \textbf{Figur 2} & \textbf{Figur 3} & \textbf{Figur 4}\\ %\hline
-     \includegraphics[width=0.3\textwidth,height=45mm]{Files/CelShading/silhouette4.pdf}
-     
+      
+\refstepcounter{rownumber}
+    \label{row1} \includegraphics[width=0.3\textwidth,height=45mm]{Files/CelShading/silhouette4.pdf}
+  
+\refstepcounter{rownumber} % Tilføjer til counteren.
      &
-     \includegraphics[width=0.3\textwidth, height=45mm]{Files/CelShading/silhouette5.pdf}
-    
+    \label{row2} \includegraphics[width=0.3\textwidth, height=45mm]{Files/CelShading/silhouette5.pdf}
+  
+\refstepcounter{rownumber}    
      &
-     \includegraphics[width=0.3\textwidth, height=45mm]{Files/CelShading/silhouette6.jpg}
+     \label{row3} \includegraphics[width=0.3\textwidth, height=45mm]{Files/CelShading/silhouette6.jpg}
     
    \\ \hline
      
@@ -60,7 +69,3 @@ farve, teksture og intensitet. Formelen ses i \ref{mixedmodulation} og resultate
    \label{figtbl:modulation}}
    \end{center}
    \end{table}
-
-%\pic{!h}{10em}{Files/CelShading/silhouette5.pdf}{} {fig:modulationofcolorfromteksture}
-%\pic{!h}{10em}{Files/CelShading/silhouette6.jpg}{} {fig:mixedmodulation}
-

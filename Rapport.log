@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.15)  29 FEB 2016 10:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.15)  29 FEB 2016 11:21
 entering extended mode
 **./Rapport.tex
 (Rapport.tex
@@ -869,15 +869,12 @@ LaTeX Warning: Reference `fig:modulationbasecolor' on page 2 undefined on input
 LaTeX Warning: Reference `fig:modulationofcolorfromteksture' on page 2 undefine
 d on input line 39.
 
-
-LaTeX Warning: Reference `fig:mixedmodulation' on page 2 undefined on input lin
-e 42.
-
+\c@rownumber=\count306
 <Files/CelShading/silhouette4.pdf, id=23, 116.435pt x 116.435pt>
 File: Files/CelShading/silhouette4.pdf Graphic file (type pdf)
 
 <use Files/CelShading/silhouette4.pdf>
-Package pdftex.def Info: Files/CelShading/silhouette4.pdf used on input line 48
+Package pdftex.def Info: Files/CelShading/silhouette4.pdf used on input line 55
 .
 (pdftex.def)             Requested size: 145.89337pt x 128.05046pt.
 
@@ -885,7 +882,7 @@ Package pdftex.def Info: Files/CelShading/silhouette4.pdf used on input line 48
 File: Files/CelShading/silhouette5.pdf Graphic file (type pdf)
 
 <use Files/CelShading/silhouette5.pdf>
-Package pdftex.def Info: Files/CelShading/silhouette5.pdf used on input line 51
+Package pdftex.def Info: Files/CelShading/silhouette5.pdf used on input line 59
 .
 (pdftex.def)             Requested size: 145.89337pt x 128.05046pt.
 
@@ -893,9 +890,13 @@ Package pdftex.def Info: Files/CelShading/silhouette5.pdf used on input line 51
 File: Files/CelShading/silhouette6.jpg Graphic file (type jpg)
 
 <use Files/CelShading/silhouette6.jpg>
-Package pdftex.def Info: Files/CelShading/silhouette6.jpg used on input line 54
+Package pdftex.def Info: Files/CelShading/silhouette6.jpg used on input line 63
 .
 (pdftex.def)             Requested size: 145.89629pt x 128.05228pt.
+
+Overfull \hbox (0.77531pt too wide) in paragraph at lines 50--69
+ [] 
+ []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -953,13 +954,13 @@ Package logreq Info: Writing requests to 'Rapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10695 strings out of 493634
- 170126 string characters out of 3135239
+ 10701 strings out of 493634
+ 170169 string characters out of 3135239
  347635 words of memory out of 3000000
- 13903 multiletter control sequences out of 15000+200000
+ 13909 multiletter control sequences out of 15000+200000
  11053 words of font info for 40 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 38i,12n,45p,1972b,1519s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,11n,45p,1972b,1519s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/f
@@ -973,7 +974,7 @@ m/cmr7.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Jonas/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Rapport.pdf (9 pages, 852271 bytes).
+Output written on Rapport.pdf (9 pages, 852279 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
