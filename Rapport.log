@@ -1,13 +1,23 @@
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.15)  29 FEB 2016 13:12
+=======
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.15)  29 FEB 2016 12:49
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 entering extended mode
 **./Rapport.tex
 (Rapport.tex
 LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 (Files/Preamble/Preamble.tex
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -22,6 +32,17 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
+<<<<<<< HEAD
+) ("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\showkeys.s
+ty"
+Package: showkeys 2014/10/28 v3.17 Show cite and label keys (DPC, MH)
+)
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+=======
 ) ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\showkeys.s
 ty"
 Package: showkeys 2014/10/28 v3.17 Show cite and label keys (DPC, MH)
@@ -31,13 +52,18 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 File: utf8.def 2015/09/07 v1.1p UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -197,7 +223,11 @@ File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -238,7 +268,11 @@ File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 File: omsenc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -261,7 +295,11 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
+<<<<<<< HEAD
+)) ("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.s
+=======
 )) ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.s
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 ty"
 Package: babel 2016/01/08 3.9n The Babel package
 
@@ -269,6 +307,17 @@ Package: babel 2016/01/08 3.9n The Babel package
 * Local config file bblopts.cfg used
 *
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\bblopts.c
+fg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danish\Danis
+h.ldf"
+Language: danish 2009/09/19 v1.3r Danish support from the babel system
+
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\bblopts.c
 fg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
@@ -278,21 +327,40 @@ h.ldf"
 Language: danish 2009/09/19 v1.3r Danish support from the babel system
 
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 File: babel.def 2016/01/08 3.9n Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
 Package babel Info: Making " an active character on input line 82.
 ))
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
 sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
 sty"
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
@@ -301,11 +369,23 @@ Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 94.
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.
+def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.
 def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -315,6 +395,7 @@ rr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 .sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
@@ -323,38 +404,62 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sectsty\sectsty.st
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\placeins\placeins.
 sty"
 Package: placeins 2005/04/18  v 2.2
 )
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sectsty\sectsty.st
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 y"
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 y"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
 y"
 Package: amstext 2000/06/29 v2.01
 
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 "
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks17
 \ex@=\dimen106
 ))
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 "
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen107
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 "
 Package: amsopn 1999/12/14 v2.01 operator names
 )
@@ -396,10 +501,17 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+"
+Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+ ("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty
 "
 Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
  ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen115
 \extrarowheight=\dimen116
@@ -414,6 +526,10 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \TX@delta=\dimen121
 \TX@cols=\count102
 \TX@ftn=\toks23
+<<<<<<< HEAD
+)
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+=======
 ) ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
  ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
@@ -435,6 +551,7 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \JustifyingParindent=\skip61
 )
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 sty"
 \lst@mode=\count103
 \lst@gtempboxa=\box28
@@ -449,20 +566,32 @@ sty"
 \lst@lineno=\count108
 \lst@maxwidth=\dimen125
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 ty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count109
 \lst@skipnumbers=\count110
 \lst@framebox=\box29
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.st
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.st
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 y"
 \wrapoverhang=\dimen126
 \WF@size=\dimen127
@@ -471,6 +600,17 @@ y"
 \WF@everypar=\toks25
 Package: wrapfig 2003/01/31  v 3.6
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
@@ -480,16 +620,25 @@ sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 ty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
@@ -506,6 +655,15 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen135
 \Gm@dimlist=\toks26
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
+sty"
+Package: biblatex 2015/12/22 v3.2 programmable bibliographies (PK/JW/AB)
+
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex1
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
 cfg"))
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
@@ -513,15 +671,31 @@ sty"
 Package: biblatex 2015/12/22 v3.2 programmable bibliographies (PK/JW/AB)
 
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex1
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 .sty"
 Package: biblatex1 2015/12/22 v3.2 programmable bibliographies (bibtex) (PK/JW/
 AB)
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 sty"
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count115
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count116
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) ("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count116
@@ -531,6 +705,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 "
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ) ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -652,14 +827,22 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-compa
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx-compa
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 t.def"
 File: blx-compat.def 2015/12/22 v3.2 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 def"
 File: biblatex.def 
 \c@textcitecount=\count287
@@ -673,13 +856,21 @@ File: biblatex.def
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\numer
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\numer
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 ic.bbx"
 File: numeric.bbx 2015/12/22 v3.2 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\stand
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx\stand
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 ard.bbx"
 File: standard.bbx 2015/12/22 v3.2 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count294
@@ -688,7 +879,11 @@ File: standard.bbx 2015/12/22 v3.2 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx\numer
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx\numer
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 ic.cbx"
 File: numeric.cbx 2015/12/22 v3.2 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
@@ -706,6 +901,17 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
+cfg"
+File: biblatex.cfg 
+)))
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
+y"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\biblatex.
 cfg"
 File: biblatex.cfg 
@@ -715,6 +921,7 @@ y"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 ty"
 Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
@@ -730,14 +937,22 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (Files/Commands/Commands.tex))
 Package biblatex Info: Trying to load language 'danish'...
 Package biblatex Info: ... file 'danish.lbx' found.
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\danis
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\danis
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 h.lbx"
 File: danish.lbx 2015/12/22 v3.2 biblatex localization (PK/JW/AB)
 )
@@ -767,7 +982,11 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 
+<<<<<<< HEAD
+("C:\Users\Mirza\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+=======
 ("C:\Users\Jonas\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count299
@@ -840,11 +1059,11 @@ Package caption Info: End \AtBeginDocument code.
 File: Files/Front/dania.pdf Graphic file (type pdf)
 
 <use Files/Front/dania.pdf>
-Package pdftex.def Info: Files/Front/dania.pdf used on input line 12.
+Package pdftex.def Info: Files/Front/dania.pdf used on input line 16.
 (pdftex.def)             Requested size: 486.25761pt x 196.68167pt.
  [1
 
-{C:/Users/Jonas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Files/Fro
+{C:/Users/Mirza/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Files/Fro
 nt/dania.pdf>]) (Files/Indledning/Indledning.tex) [1] (Rapport.toc)
 \tf@toc=\write4
 \openout4 = `Rapport.toc'.
@@ -852,9 +1071,18 @@ nt/dania.pdf>]) (Files/Indledning/Indledning.tex) [1] (Rapport.toc)
  (Files/Introduktion/introduktion.tex [2
 
 ])
+<<<<<<< HEAD
+(Files/Celshading/celshading.tex
+<Files/Celshading/jetsetradio.pdf, id=17, 401.5pt x 344.28625pt>
+File: Files/Celshading/jetsetradio.pdf Graphic file (type pdf)
+
+<use Files/Celshading/jetsetradio.pdf>
+Package pdftex.def Info: Files/Celshading/jetsetradio.pdf used on input line 2.
+=======
 (Files/Celshading/celshading.tex [1]
 <Files/CelShading/jetsetradio.pdf, id=19, 401.5pt x 344.28625pt>
 File: Files/CelShading/jetsetradio.pdf Graphic file (type pdf)
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 
 <use Files/CelShading/jetsetradio.pdf>
 Package pdftex.def Info: Files/CelShading/jetsetradio.pdf used on input line 4.
@@ -923,6 +1151,29 @@ Package logreq Info: Writing requests to 'Rapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
+ 10604 strings out of 493634
+ 168050 string characters out of 3135239
+ 346687 words of memory out of 3000000
+ 13823 multiletter control sequences out of 15000+200000
+ 11053 words of font info for 40 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 38i,8n,45p,1972b,1443s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Mirza/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/Mirza/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/Mirza/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Mirza/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Mirza/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Mi
+rza/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Users/Mirza/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr7.pfb><C:/Users/Mirza/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr8.pfb><C:/Users/Mirza/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Mirza/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Mirza/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Rapport.pdf (10 pages, 860438 bytes).
+=======
  10697 strings out of 493634
  170077 string characters out of 3135239
  347635 words of memory out of 3000000
@@ -944,6 +1195,7 @@ ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Jonas/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
 Output written on Rapport.pdf (9 pages, 852037 bytes).
+>>>>>>> 9f0665db6ebdf079d2d7ed8d5f430538462b1f93
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
