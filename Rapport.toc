@@ -9,3 +9,5 @@
 \contentsline {section}{\numberline {3}Alternativ toon shading}{4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Hvorn\IeC {\r a}r kunne man \IeC {\o }nske at bruge cel shading/cartoon shading}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Konklusion}{6}
