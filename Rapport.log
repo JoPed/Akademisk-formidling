@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.15)  29 FEB 2016 10:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.15)  29 FEB 2016 12:49
 entering extended mode
 **./Rapport.tex
 (Rapport.tex
@@ -852,87 +852,60 @@ nt/dania.pdf>]) (Files/Indledning/Indledning.tex) [1] (Rapport.toc)
  (Files/Introduktion/introduktion.tex [2
 
 ])
-(Files/Celshading/celshading.tex
-<Files/CelShading/jetsetradio.pdf, id=16, 401.5pt x 344.28625pt>
+(Files/Celshading/celshading.tex [1]
+<Files/CelShading/jetsetradio.pdf, id=19, 401.5pt x 344.28625pt>
 File: Files/CelShading/jetsetradio.pdf Graphic file (type pdf)
 
 <use Files/CelShading/jetsetradio.pdf>
-Package pdftex.def Info: Files/CelShading/jetsetradio.pdf used on input line 3.
+Package pdftex.def Info: Files/CelShading/jetsetradio.pdf used on input line 4.
 
 (pdftex.def)             Requested size: 117.49878pt x 100.75453pt.
- [1 <./Files/CelShading/jetsetradio.pdf>]
-
-LaTeX Warning: Reference `fig:modulationbasecolor' on page 2 undefined on input
- line 34.
-
-
-LaTeX Warning: Reference `fig:modulationofcolorfromteksture' on page 2 undefine
-d on input line 39.
-
-
-LaTeX Warning: Reference `fig:mixedmodulation' on page 2 undefined on input lin
-e 42.
-
-<Files/CelShading/silhouette4.pdf, id=23, 116.435pt x 116.435pt>
+ [2 <./Files/CelShading/jetsetradio.pdf>]
+\c@rownumber=\count306
+<Files/CelShading/silhouette4.pdf, id=29, 116.435pt x 116.435pt>
 File: Files/CelShading/silhouette4.pdf Graphic file (type pdf)
 
 <use Files/CelShading/silhouette4.pdf>
-Package pdftex.def Info: Files/CelShading/silhouette4.pdf used on input line 48
+Package pdftex.def Info: Files/CelShading/silhouette4.pdf used on input line 54
 .
-(pdftex.def)             Requested size: 145.89337pt x 128.05046pt.
+(pdftex.def)             Requested size: 97.25395pt x 99.58849pt.
 
-<Files/CelShading/silhouette5.pdf, id=24, 116.435pt x 116.435pt>
+<Files/CelShading/silhouette5.pdf, id=30, 116.435pt x 116.435pt>
 File: Files/CelShading/silhouette5.pdf Graphic file (type pdf)
 
 <use Files/CelShading/silhouette5.pdf>
-Package pdftex.def Info: Files/CelShading/silhouette5.pdf used on input line 51
+Package pdftex.def Info: Files/CelShading/silhouette5.pdf used on input line 58
 .
-(pdftex.def)             Requested size: 145.89337pt x 128.05046pt.
+(pdftex.def)             Requested size: 97.25395pt x 99.58849pt.
 
-<Files/CelShading/silhouette6.jpg, id=25, 88.24547pt x 88.24547pt>
+<Files/CelShading/silhouette6.jpg, id=31, 88.24547pt x 88.24547pt>
 File: Files/CelShading/silhouette6.jpg Graphic file (type jpg)
 
 <use Files/CelShading/silhouette6.jpg>
-Package pdftex.def Info: Files/CelShading/silhouette6.jpg used on input line 54
+Package pdftex.def Info: Files/CelShading/silhouette6.jpg used on input line 62
 .
-(pdftex.def)             Requested size: 145.89629pt x 128.05228pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (Files/Alternativ_toon_shading/Alternativ_toon_shading.tex [2]
-<Files/Alternativ_toon_shading/okami.png, id=34, 331.83975pt x 264.38776pt>
+(pdftex.def)             Requested size: 97.25208pt x 99.58693pt.
+)
+(Files/Alternativ_toon_shading/Alternativ_toon_shading.tex [3 <./Files/CelShadi
+ng/silhouette4.pdf> <./Files/CelShading/silhouette5.pdf> <./Files/CelShading/si
+lhouette6.jpg>]
+<Files/Alternativ_toon_shading/okami.png, id=41, 331.83975pt x 264.38776pt>
 File: Files/Alternativ_toon_shading/okami.png Graphic file (type png)
 
 <use Files/Alternativ_toon_shading/okami.png>
 Package pdftex.def Info: Files/Alternativ_toon_shading/okami.png used on input 
 line 7.
-(pdftex.def)             Requested size: 281.99707pt x 224.69029pt.
+(pdftex.def)             Requested size: 293.74695pt x 234.05374pt.
 )
-(Files/HvornaarBrugesDet/Hvornaar.tex
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[3 <./Files/CelShading/silhouette4.pdf> <./Files/CelShading/silhouette5.pdf> <.
-/Files/CelShading/silhouette6.jpg>]
-
-Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
-put line 4.
-
-<Files/HvornaarBrugesDet/new-link.png, id=43, 465.74pt x 381.425pt>
+(Files/HvornaarBrugesDet/Hvornaar.tex [4 <./Files/Alternativ_toon_shading/okami
+.png>] <Files/HvornaarBrugesDet/new-link.png, id=48, 465.74pt x 381.425pt>
 File: Files/HvornaarBrugesDet/new-link.png Graphic file (type png)
 
 <use Files/HvornaarBrugesDet/new-link.png>
 Package pdftex.def Info: Files/HvornaarBrugesDet/new-link.png used on input lin
-e 4.
-(pdftex.def)             Requested size: 176.24817pt x 144.3377pt.
-
-
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 4.
-
-
-) [4 <./Files/Alternativ_toon_shading/okami.png>] [5 <./Files/HvornaarBrugesDet
-/new-link.png>]
+e 5.
+(pdftex.def)             Requested size: 117.49878pt x 96.22319pt.
+) [5 <./Files/HvornaarBrugesDet/new-link.png>]
 Overfull \hbox (43.7068pt too wide) in paragraph at lines 20--20
 []\OT1/cmr/m/n/12 SunandBlackCat. \OT1/cmr/m/it/12 Non-photorealistic Ren-de-ri
 ng - Cel sha-ding\OT1/cmr/m/n/12 . 2016. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : 
@@ -943,9 +916,6 @@ $\OT1/cmtt/m/n/12 http : / / sunandblackcat .$
 
 ] (Rapport.aux)
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'Rapport.run.xml'.
@@ -953,13 +923,13 @@ Package logreq Info: Writing requests to 'Rapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10695 strings out of 493634
- 170126 string characters out of 3135239
+ 10697 strings out of 493634
+ 170077 string characters out of 3135239
  347635 words of memory out of 3000000
- 13903 multiletter control sequences out of 15000+200000
+ 13905 multiletter control sequences out of 15000+200000
  11053 words of font info for 40 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 38i,12n,45p,1972b,1519s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,11n,45p,1134b,1519s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/f
@@ -973,7 +943,7 @@ m/cmr7.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Jonas/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Jonas/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Rapport.pdf (9 pages, 852271 bytes).
+Output written on Rapport.pdf (9 pages, 852037 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
