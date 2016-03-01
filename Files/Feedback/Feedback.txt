@@ -1,0 +1,43 @@
+Forside: Mangler gruppe nr og dato. 
+
+Headers fungere bedst når de bruges på længere afsnit som dækker mere end en side. Se f.eks. side 1. 
+
+Tom bilag?
+
+Fin nummering af overskrifter. God opsætning af billeder og tabeller. 
+
+1 Introduktion: 
+- Linje fire, skal omformuleres.
+
+2 Teksturer der skalerer til alle skærmopløsninger:
+- Hvad er aspekter???? 
+
+3 Mulige løsningner til 2d teksturer
+- Hvor er 800x450 på tabellen??? 
+- Mangler nummering på tabel, som minimum. Evt. tabel tekst. [side 2]
+- Første del af afsnit om boxning skal omformuleres. F.eks. hedder det 'og/eller' og ikke 'eller, og'
+- I afsnit om boxing bruges fodnote som kildehenvisning. 
+
+4 Teksture
+- Hvem siger raster grafik er mest normal? 
+
+4.1 Hukommelse i forhold til teksturer
+- Kildehenvisning på forkert side af punktum.
+
+5 Raster vs Vector grafik 
+- Kluntet formuleret. 
+- Virker ikke som et ret vigtigt punkt. 
+
+5.1 Raster over Vector i Spil udvikling
+- Årsagen til hvad [linje 1]
+- Sub figure ser rigtig godt ud. 
+- 5.2 Test - filstørrelse
+- Fint med test, men der mangler lidt dokumentation
+- Kluntet formuleringer rundt omkring. F.eks. linje 9-13
+- Stort bogstav efter forkortelser med punktum er no-go. 
+- Sidste fire linjer = volapyk
+
+6 Konklusion
+- Skal være en side for sig selv.
+- Vær = værd
+- I har undersøgt at raster er bedre end vector til grakik (ikke konkluderet)
